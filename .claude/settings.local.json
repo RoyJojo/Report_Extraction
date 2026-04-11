@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:help.aliyun.com)",
+      "WebFetch(domain:www.alibabacloud.com)",
+      "WebFetch(domain:platform.openai.com)",
+      "WebFetch(domain:www.volcengine.com)"
+    ]
+  }
+}
